@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/amykapernick/advent_of_code/issues"
   },
-  "homepage": "https://github.com/amykapernick/advent_of_code#readme"
+  "homepage": "https://github.com/amykapernick/advent_of_code#readme",
+  "dependencies": {
+    "file-system": "^2.2.2"
+  }
 }
