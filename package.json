@@ -1,0 +1,20 @@
+{
+  "name": "advent_of_code",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/amykapernick/advent_of_code.git"
+  },
+  "keywords": [],
+  "author": "Amy Kapernick <amy@kapers.dev> (https://amyskapers.dev)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/amykapernick/advent_of_code/issues"
+  },
+  "homepage": "https://github.com/amykapernick/advent_of_code#readme"
+}
